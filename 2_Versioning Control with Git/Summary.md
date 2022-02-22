@@ -59,8 +59,7 @@ Git adalah version control system yang diciptakan agar tim developer dapat menge
 
 Hasil Praktikum Section 2 : 
 
-![GIT INIT = Berfungsi untuk membuat repository pada file lokal yang nantinya ada folder .git [perintah yang diketikkan adalah GIT INIT]
-(2_Versioning Control with Git/screenshot/1.png)
+![Gambar pertama](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/1.png)
 
 ![git add . = Berfungsi untuk membuat repository pada file lokal yang nantinya ada folder .git [perintah yang diketikkan adalah GIT INIT]
 (https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/2.png)
