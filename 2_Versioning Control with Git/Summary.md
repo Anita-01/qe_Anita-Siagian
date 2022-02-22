@@ -61,8 +61,16 @@ Hasil Praktikum Section 2 :
 
 ![Gambar pertama](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/1.png)
 
-![git add . = Berfungsi untuk membuat repository pada file lokal yang nantinya ada folder .git [perintah yang diketikkan adalah GIT INIT]
-(https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/2.png)
+![Gambar kedua](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/2.png)
 
-![git remote add origin https://github.com/Anita-01/qe_Anita-Siagian.git = Berfungsi untuk harus menambahkan remote  ]
-(https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/3.png)
+![Gambar kedua](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/3.png)
+
+![Gambar kedua](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/4.png)
+
+![Gambar kedua](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/5.png)
+
+![Gambar kedua](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/6.png)
+
+![Gambar kedua](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/7.png)
+
+![Gambar kedua](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/Network.png)
