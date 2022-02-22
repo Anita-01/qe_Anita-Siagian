@@ -59,17 +59,21 @@ Git adalah version control system yang diciptakan agar tim developer dapat menge
 
 Hasil Praktikum Section 2 : 
 
-![GIT INIT = Berfungsi untuk membuat repository pada file lokal yang nantinya ada folder .git [perintah yang diketikkan adalah GIT INIT](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/1.png)
+![GIT INIT = Berfungsi untuk membuat repository pada file lokal yang nantinya ada folder .git [perintah yang diketikkan adalah GIT INIT]
+(https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/1.png)
 
-![git add . = Berfungsi untuk membuat repository pada file lokal yang nantinya ada folder .git [perintah yang diketikkan adalah GIT INIT](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/2.png)
+![git add . = Berfungsi untuk membuat repository pada file lokal yang nantinya ada folder .git [perintah yang diketikkan adalah GIT INIT]
+(https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/2.png)
 
-![git remote add origin https://github.com/Anita-01/qe_Anita-Siagian.git = Berfungsi untuk harus menambahkan remote add origin yang dimana origin ini berfungsi untuk mengkloning reposiori, dimana pada saat URL](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/3.png)
+![git remote add origin https://github.com/Anita-01/qe_Anita-Siagian.git = Berfungsi untuk harus menambahkan remote add origin yang dimana origin ini berfungsi untuk mengkloning reposiori, dimana pada saat URL]
+(https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/3.png)
 
 ![git push -u origin master berfungsi untuk mengambil commit dari branch master di repository remote yang dimana origin adalah nama remote](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/4.png)
 
 ![git branch develop = berfungsi untuk membuat branch baru](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/5.png)
 
-![git checkout develop = berfungsi untuk memindahkan direktori ke branch yang ditulis](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/6.png)
+![git checkout develop = berfungsi untuk memindahkan direktori ke branch yang ditulis]
+(https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/6.png)
 
 ![git push -u origin develop ](https://github.com/Anita-01/qe_Anita-Siagian/blob/master/2_Versioning%20Control%20with%20Git/screenshot/7.png)
 
