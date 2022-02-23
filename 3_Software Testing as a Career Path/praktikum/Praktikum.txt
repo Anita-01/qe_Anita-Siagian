@@ -1,1 +1,10 @@
-Nama : Anita Siagian
+Ember kapasitas 5L = A
+Ember kapasitas 3L = B
+1. Isi ember B sampai penuh (Ember B berisi 3L)
+2. Tuangkan isi ember B ke dalam ember A (Ember B kosong dan Ember A 3 Liter)
+3. Isi ember B sampai penuh (Ember A dan B berisi 3 Liter)
+4. Tuangkan isi ember B ke dalam ember A sampai ember B penuh (isi ember A menjadi 5 Liter dan isi ember B menjadi 1 Liter)
+5. Buang semua isi ember A ( Ember A menjadi 0 Liter)
+6. Tuangkan air yang ada pada ember B ke ember A (Ember A berisi 1 Liter, ember B menjadi 0 liter)
+7. Isi penuh air pada ember B (Ember B menjadi 3 Liter)
+8. Total isi ember A dan isi ember B menjadi (3 + 1) = 4 Liter
