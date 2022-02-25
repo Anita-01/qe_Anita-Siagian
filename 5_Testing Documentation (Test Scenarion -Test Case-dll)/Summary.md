@@ -71,3 +71,5 @@ Hal yang diperlukan dalam pembuatan test case:
 Buatlah Test Case sebanyak mungkin pada feature login, pilih produk sampai pilih metode pembayaran dari https://www.sepulsa.com/ dengan menggunakan format laporan yang sudah ditentukan!
 
 ### Jawaban
+
+Jawaban untuk Challenge berada di Link : https://github.com/Anita-01/qe_Anita-Siagian/tree/master/5_Testing%20Documentation%20(Test%20Scenarion%20-Test%20Case-dll)/praktikum
