@@ -87,19 +87,4 @@ Beberapa keunggulan dari software Jira antara lain:
 
 ## TASK
 
-1. Apa yang dimaksud dengan Bugs
-   Jawab: Bug adalah kesalahan yang terjadi pada perangkat komputer atau mobile yang disebabkan oleh perangkat lunak atau perangkat keras yang tidak berjalan sesuai dengan semestinya sehingga menyebabkan error.Bug pada software akan semakin mudah ditemukan jika program yang dikembangkan semakin kompleks.
-2. Apa yang dimaksud dengan “TO DO” pada JIRA?
-   Jawab: TO DO adalah panel berisi story yang akan dikerjakan dan sudah diprioritaskan saat planning. Story yang ditempatkan paling atas menandakan bahwa story tersebut merupakan prioritas utama.
-3. Apa yang dimaksud dengan “IN PROGRESS” pada JIRA?
-   Jawab: Panel yang berisi story yang sedang dikerjakan oleh software engineer atau developer.
-4. Apa perbedaan antara “Deliver” dan “Finish”?
-   Jawab: Deliver adalah panel yang berisi story yang siap memasuki tahap testing oleh quality engineer, sedangkan Finish adalah panel yang berisi story yang sudah selesai dikerjakan oleh developer, namun belum siap untuk tahap testing.
-5. Apa yang dimaksud dengan “Epic”?
-   Jawab: Epic merupakan jenis issue untuk mengelompokkan task.
-6. Apa yang harus dilakukan saat menggunakan tools Jira, jika kita menemukan bugs pada fitur yang sudah dilakukan testing?
-   Jawab:
-   Ketika seorang Quality Assurance menemukan bug pada saat testing program maka ada beberapa langkah yang harus dilakukan di software Jira antara lain:
-7. Terlebih dahulu pastikan sudah mebuatb proyek dengan menentukan tipe yang akan digunakan apakah itu Scrum atau Kanban.
-8. Lakukan create Issue pada saat pengisiaan isi dengan tipe bug dan jelaskan bagaimana issue dapat terjadi dan jelaskan scenario yang anda lakukan pada saat menemukan bug , serta sampaikan expected result jika aplikasi tersebut tidak error.
-9. Pindahkan story atau issue yang berkaitan dengan bug ke panel atau kolom IN PROGRESS.
+Link Tugas : https://github.com/Anita-01/qe_Anita-Siagian/blob/master/6._Tracking%20Management%20Tools/praktikum/TugasTrackingManagementTools.docx
