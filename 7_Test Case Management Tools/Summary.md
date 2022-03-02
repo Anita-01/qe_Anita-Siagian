@@ -41,3 +41,6 @@
 9. Create Test Case
    Test Case adalah suatu rancangan atau rangkaian mengenai tindakan yang dilakukan oleh user (dalam hal ini adalah seorang Quality Assurance atau tester) untuk melakukan verifikasi terhadap fitur atau fungsi tertentu dari sebuah perangkat luna
 10. Test Report
+
+Link Tugas : 
+https://github.com/Anita-01/qe_Anita-Siagian/blob/master/7_Test%20Case%20Management%20Tools/praktikum/Tugas_TestCaseManagementsTools.docx
