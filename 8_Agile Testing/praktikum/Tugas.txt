@@ -1,0 +1,52 @@
+## TASK
+
+1. Pada fase apa saja QE berperan pada proses SDLC? Sebutkan dan jelaskan peran seperti apa yang QE dapat lakukan pada setiap fase tersebut!
+   Jawab :
+   Dalam setiap tahapan yang ada di dalam SDLC QE berperan
+   Ada 2 tahapan yang terdapat pada fase SDLC antara lain:
+
+   1. Requirements Gathering
+      Pada tahap Requirements Gathering merupakan tahap perencaaan dalam mengidentifikasi dan menentukan scope serta ruang lingkup pemgembangan proyek,
+      QE berperan untuk menentukan beberapa langkah yang akan dilakukan pada tahap planning untuk memperkirakan resiko yang akan datang ke depannya , serta menganalisis kebutuhan user
+      agar sistem yang akan dibangun akan dapat memenuhi kebutuhan client. Jika proses Requirement Gathering baik dilaksanakan maka proses selanjutnya akan berjalan dengan baik.
+
+   2. Design
+      Pada tahap ini adalah membangun desain yang sudah dirancang pada proses requirement gathering, dimana QE berperan menganalisa desain yang dibangun oleh seorang UI/UX apakah sudah baik (Hall of Fame) dan apakah desain yang sudah dirancang memenuhi syarat untuk dipakai.
+
+   3. Development(Code)
+      Pada tahap Devekopment adalah tahap pengembangan software dimana software yang telah dirancang dan didesain akan dibangun dengan menggunakan teknologi serta bahasa pemograman yang dipilih.
+      Tahap development adalah tahap terlama dalam proses SDLC, dalam proses pengembangan QA sudah dapat merancang test case yang kemungkinan akan digunakan serta dapat mencek beberapa fungsi yang
+      sudah dibangun, jika ada sesuatu seperti code yang dicurigai kurang vulnerable dan masih ada fungsi yang error maka QA dan Developer harus bekerjasama untuk memperbaiki fungsi yang sedang dibangun agar proses kedepannya menjadi lebih baik dan menghindari
+      bug yang akan terjadi pada saat software selesai dibangun.
+
+   4. Testing
+      Pada tahap ini QE akan mengeksekusi test case yang sudah dirancang sebelumnya test case yang dibuat terdiri dari dua yaitu positif dan negatif, dimana test case yang sudah dieksekusi didokumentasikan.
+      Seorang QE juga harus menguji keseluruhan dari software yang dibangun seperti kemudahan penggunaan sampai pencapaian tujuan dari sistem yang sudah disusun sejak perancangan sistem dilakukan.
+
+   5. Deployment
+      Pada tahapan Deployment seorang QA harus memastikan apakah semua test case dan pengujian yang sudah dilakukan pada proses testing sudah berjalan dengan baik dan semua kegiatan sudah dilakukan.
+
+   6. Maintenance
+      Pada tahap Maintenance akan ada bug yang ditemukan oleh user maupun QA pada saat software sudah digunakan. Ketika ditemukan bugs yang tidak diprediksikan pada tahap testing,
+      maka seorang developer akan memperbaiki bugs yang ditemukan tersebut, kemudian seorang QE juga harus membuat test case yang mungkin ada baik bersifat positif maupun negatif kemudian mengeksekusi test case tersebut.
+
+2. Menurut teman-teman apa tantangan ketika menerapkan agile testing? Berikan penjelasan masing-masing
+   5 poin agile testing manifesto!
+
+   1. Testing is an activity not a phase
+      Tantangan pada poin ini adalah masih banyak pola pikir Quality Assurance yang menilai bahwa testing dilakukan pada saat aplikasi sudah siap dibangun, dan jika ada error yang terjadi saat aplikasi dipakai
+      maka itu adalah tugas developer , pada poin ini seorang Quality Assurance harus memiliki pola pikir bahwa proses testing harus dilakukan pada setiap tahap SDLC agar kualitas mutu pembangunan software berjalan
+      dengan baik.
+
+   2. Prevent bugs rather than finding bugs
+      Tantangan pada poin adalah lebih sulit menentukan atau memperkirakan kemungkinan bugs yang terjadi tantangan disini adalah quality assurance harus berpikir kritis dalam menentukan bugs yang akan terjadi.
+
+   3. Don't be a checker, be a tester
+      Tantangan pada poin ini adalah mindset quality assurance bukan hanya mengtest tetapi harus mengetahui kebutuhan user dalam menggunakan aplikasi tersebut.
+
+   4. Don't try to break the system, instead help build the best possible system
+      Tantangan pda poin ini adalah menciptakan test case sebanyak mungkin yang dimana goal utamanya adalah menemukan bugs
+      dan QA harus mampu memposisikan diri sebagai orang awam yang mencoba software tersebut.
+
+   5. The whole team is responsible for quality, not just the tester
+      Tantangan pada poin ini adalah seorang QA juga harus dapat memberikan saran mengenai kualitas suatu software tidak hanya mentest sofware tersebut.
