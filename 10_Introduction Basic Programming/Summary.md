@@ -123,4 +123,4 @@ Ada tiga bentuk dalam proses perulangan:
 3. Perulangan For
    For do adalah bentuk perulangan dimana block statement akan dieksekusi secara berulang ulang sesuai dengan jumlah perulangan yang ditentukan.
 
-Summmaru : https://docs.google.com/document/d/1CCjIabeOU4TfBSOt_JaftLH626BgpuDe/edit?usp=sharing&ouid=105039406774266227522&rtpof=true&sd=true
+Summary : https://docs.google.com/document/d/1CCjIabeOU4TfBSOt_JaftLH626BgpuDe/edit?usp=sharing&ouid=105039406774266227522&rtpof=true&sd=true
