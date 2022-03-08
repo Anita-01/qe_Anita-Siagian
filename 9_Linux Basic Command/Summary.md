@@ -49,3 +49,7 @@ ls -a /usr = File yang akan menampilkan namanya dimulai dari titik atau tersembu
 ### FILE ACCESS Permissions
 1. chmod = perintah dasar linuk yang digunakan untuk membaca permission dari file dan direktori.
 2. chown = memungkinkan kita untuk ntuk mengubah pemilik file sistem file, direktori.
+
+## Shell Script
+Shell script adalah sebuah bahasa pemrograman yang dieksekusi berdasakan shell commands dan juga shell merupakan program yang berfungsi sebagai jembatan antara user dan kernel. 
+Keuntungan menggunakan shell pada dunia testing yaitu ketika harus mengeksekusi beberapa commands beruturut-turut, hal itu membuat kita harus menunggu command pertama baru bisa melakukan command berikutnya.
