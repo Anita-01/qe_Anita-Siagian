@@ -25,7 +25,7 @@ import java.util.stream.Collectors;
  * @author ACER
  */
 public class Problem3 {
-        public static int maxSum(int arr[], int n, int k) {
+          public static int maxSum(int arr[], int n, int k) {
         int total = 0;
         for (int i = 0; i < k; i++)
             total += arr[i];
