@@ -16,6 +16,7 @@ public class Carnivor extends Animal{
         jenis_makanan = "daging";
         gigi_binatang = "I have tajam teeth";
        System.out.println( "Hi I'm Carnivore, My name is " + nama_binatang+ ", My Food is " + jenis_makanan + "," + gigi_binatang);
+       
         
     }
 }

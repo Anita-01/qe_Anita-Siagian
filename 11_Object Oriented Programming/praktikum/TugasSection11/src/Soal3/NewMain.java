@@ -18,8 +18,8 @@ public class NewMain {
         // TODO code application logic here
         Operator op1 = new Operator();
         System.out.println("Output : ");
-        op1.Penjumlahan(3, 4);
-        op1.Pengurangan(15,4);
+        op1.Penjumlahan(4,5);
+        op1.Pengurangan(4,15);
         op1.Perkalian(10, 10);
         op1.Pembagian(12, 3);
     }
