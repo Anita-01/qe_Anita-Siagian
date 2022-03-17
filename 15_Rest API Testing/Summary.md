@@ -175,4 +175,7 @@ Mengeksekusi test case yang telah kita buat dan membuat report hasil dari testin
 - Kita harus mengetahui terlebih dahulu parameter
 - Perlu juga mengetest error handling dari setiap API.
 
-### Tugas : https://docs.google.com/document/d/1YdZdyd6gtUmpnOZm92g4llbnGEG_LOHxucfz0E5VA5w/edit?usp=sharing
+### Tugas : 
+### Test Rail : https://anitasiagian.testrail.io/index.php?/projects/overview/1
+### https://docs.google.com/spreadsheets/d/1SB1PsaHlWb6DrIV6Dx5JjNLGYeghHTv5yqC1Y4IngAs/edit#gid=0
+
