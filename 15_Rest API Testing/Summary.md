@@ -3,7 +3,7 @@
 # Pengenalan RESTful API
 
 1. Apa itu API dan Cara Kerjanya ?
-   API adalah singkatan dari Application Programming Interface merupakan sutau penghubung yang memungkin aplikasi dapat berinteraksi dengan aplikasi lainnya dan berbagai data.
+   API adalah singkatan dari Application Programming Interface merupakan suatu penghubung yang memungkin aplikasi dapat berinteraksi dengan aplikasi lainnya dan berbagai data.
 
 ### Tujuan API
 
