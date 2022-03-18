@@ -3,7 +3,7 @@
 # Pengenalan RESTful API
 
 1. Apa itu API dan Cara Kerjanya ?
-   API adalah singkatan dari Application Programming Interface merupakan sutau penghubung yang memungkin aplikasi dapat berinteraksi dengan aplikasi lainnya dan berbagai data.
+   API adalah singkatan dari Application Programming Interface merupakan suatu penghubung yang memungkin aplikasi dapat berinteraksi dengan aplikasi lainnya dan berbagai data.
 
 ### Tujuan API
 
@@ -176,6 +176,6 @@ Mengeksekusi test case yang telah kita buat dan membuat report hasil dari testin
 - Perlu juga mengetest error handling dari setiap API.
 
 ### Tugas : 
-### Test Rail : https://anitasiagian.testrail.io/index.php?/projects/overview/1
-### https://docs.google.com/spreadsheets/d/1SB1PsaHlWb6DrIV6Dx5JjNLGYeghHTv5yqC1Y4IngAs/edit#gid=0
+#### Test Rail : https://anitasiagian.testrail.io/index.php?/projects/overview/1
+#### Spreadsheet :  https://docs.google.com/spreadsheets/d/1SB1PsaHlWb6DrIV6Dx5JjNLGYeghHTv5yqC1Y4IngAs/edit#gid=0
 
