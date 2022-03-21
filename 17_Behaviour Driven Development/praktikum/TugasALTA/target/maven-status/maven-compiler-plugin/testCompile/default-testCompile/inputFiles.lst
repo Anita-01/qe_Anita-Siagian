@@ -1,7 +1,5 @@
 D:\PERKULIAHAN\SEMESTER 6\KAMPUS MERDEKA\New folder\17_Behaviour Driven Development\praktikum\TugasALTA\src\test\java\starter\stepdefinitions\CucumberTestSuite.java
 D:\PERKULIAHAN\SEMESTER 6\KAMPUS MERDEKA\New folder\17_Behaviour Driven Development\praktikum\TugasALTA\src\test\java\starter\login\Login.java
 D:\PERKULIAHAN\SEMESTER 6\KAMPUS MERDEKA\New folder\17_Behaviour Driven Development\praktikum\TugasALTA\src\test\java\starter\forgotpassword\ForgotPassword.java
-D:\PERKULIAHAN\SEMESTER 6\KAMPUS MERDEKA\New folder\17_Behaviour Driven Development\praktikum\TugasALTA\src\test\java\starter\stepdefinitions\login\LoginSteps.java
-D:\PERKULIAHAN\SEMESTER 6\KAMPUS MERDEKA\New folder\17_Behaviour Driven Development\praktikum\TugasALTA\src\test\java\starter\mynetwork\AddMyNetwork.java
-D:\PERKULIAHAN\SEMESTER 6\KAMPUS MERDEKA\New folder\17_Behaviour Driven Development\praktikum\TugasALTA\src\test\java\starter\stepdefinitions\forgotpassword\ForgotPasswordSteps.java
-D:\PERKULIAHAN\SEMESTER 6\KAMPUS MERDEKA\New folder\17_Behaviour Driven Development\praktikum\TugasALTA\src\test\java\starter\stepdefinitions\addmynetwork\AddMyNetworkSteps.java
+D:\PERKULIAHAN\SEMESTER 6\KAMPUS MERDEKA\New folder\17_Behaviour Driven Development\praktikum\TugasALTA\src\test\java\starter\stepdefinitions\LoginSteps.java
+D:\PERKULIAHAN\SEMESTER 6\KAMPUS MERDEKA\New folder\17_Behaviour Driven Development\praktikum\TugasALTA\src\test\java\starter\stepdefinitions\ForgotPasswordSteps.java
