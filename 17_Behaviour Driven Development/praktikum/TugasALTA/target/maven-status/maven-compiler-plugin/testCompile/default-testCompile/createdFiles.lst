@@ -1,10 +1,12 @@
 starter\login\Login.class
+starter\findjob\FindJob.class
 starter\stepdefinitions\viewprofile\ViewProfileSteps.class
 starter\viewmessage\ViewMessage.class
 starter\viewprofile\ViewProfile.class
 starter\stepdefinitions\addmynetwork\AddMyNetworkSteps.class
 starter\stepdefinitions\CucumberTestSuite.class
 starter\forgotpassword\ForgotPassword.class
+starter\stepdefinitions\findjob\FindJobSteps.class
 starter\stepdefinitions\forgotpassword\ForgotPasswordSteps.class
 starter\mynetwork\AddMyNetwork.class
 starter\stepdefinitions\login\LoginSteps.class
