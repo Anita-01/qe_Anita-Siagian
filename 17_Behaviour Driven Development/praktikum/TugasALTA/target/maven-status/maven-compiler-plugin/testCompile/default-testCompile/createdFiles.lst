@@ -1,0 +1,7 @@
+starter\stepdefinitions\addmynetwork\AddMyNetworkSteps.class
+starter\stepdefinitions\CucumberTestSuite.class
+starter\forgotpassword\ForgotPassword.class
+starter\login\Login.class
+starter\stepdefinitions\forgotpassword\ForgotPasswordSteps.class
+starter\mynetwork\AddMyNetwork.class
+starter\stepdefinitions\login\LoginSteps.class
