@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: starter.stepdefinitions.CucumberTestSuite
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in starter.stepdefinitions.CucumberTestSuite
-initializationError(starter.stepdefinitions.CucumberTestSuite)  Time elapsed: 0.002 s  <<< ERROR!
-java.lang.IllegalArgumentException: Not a file or directory: D:\PERKULIAHAN\SEMESTER 6\KAMPUS MERDEKA\New folder\17_Behaviour Driven Development\praktikum\TugasALTA\src\test\resources\features
-

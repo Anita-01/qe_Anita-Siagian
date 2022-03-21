@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Add My Network","As user i have be able to add my network","SUCCESS","2022-03-21T18:51:44.89+07:00[Asia/Bangkok]","0.0","0.56"
+"Login","As user i have be able to success login","SUCCESS","2022-03-21T18:51:45.468+07:00[Asia/Bangkok]","0.0","0.12"
+"View Message","As user i have be able to view my message","SUCCESS","2022-03-21T18:51:45.599+07:00[Asia/Bangkok]","0.0","0.08"
+"ForgotPassword","As user i have be able to success reset password","SUCCESS","2022-03-21T18:51:45.697+07:00[Asia/Bangkok]","0.0","0.08"

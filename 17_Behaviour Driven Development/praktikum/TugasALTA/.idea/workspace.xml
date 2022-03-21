@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04ef00e7-7649-41cc-bf4a-0f5395bc9ea1" name="Changes" comment="" />
+    <list default="true" id="04ef00e7-7649-41cc-bf4a-0f5395bc9ea1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TugasALTA-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/TugasALTA-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/ForgotPassword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/ForgotPassword.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/Login.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/Login.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-ForgotPassword.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-ForgotPassword.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-Login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-Login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/Login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/forgotpassword.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/forgotpassword.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/starter/forgotpassword/ForgotPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/starter/forgotpassword/ForgotPassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/starter/login/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/starter/login/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/starter/stepdefinitions/CucumberTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/starter/stepdefinitions/CucumberTestSuite.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +44,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="26gZIb5tVOpbM0XM3NGuVpI36PO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">

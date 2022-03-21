@@ -1,5 +1,11 @@
+starter\login\Login.class
+starter\stepdefinitions\viewprofile\ViewProfileSteps.class
+starter\viewmessage\ViewMessage.class
+starter\viewprofile\ViewProfile.class
+starter\stepdefinitions\addmynetwork\AddMyNetworkSteps.class
 starter\stepdefinitions\CucumberTestSuite.class
 starter\forgotpassword\ForgotPassword.class
-starter\login\Login.class
-starter\stepdefinitions\ForgotPasswordSteps.class
-starter\stepdefinitions\LoginSteps.class
+starter\stepdefinitions\forgotpassword\ForgotPasswordSteps.class
+starter\mynetwork\AddMyNetwork.class
+starter\stepdefinitions\login\LoginSteps.class
+starter\stepdefinitions\viewmessage\ViewMessageSteps.class

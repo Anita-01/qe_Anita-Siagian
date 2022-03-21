@@ -5,6 +5,5 @@ Feature: ForgotPassword
 
   Scenario: As user i have be able to success reset password
     Given I am on forgot password page
-    When I enter my email or numberhandphone is correct
-    And I click login button
-    Then I am on the home page
+    When I enter my email or number phone is correct
+    And I click forgot button
