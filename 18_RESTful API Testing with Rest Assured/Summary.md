@@ -20,3 +20,6 @@ Tujuan : Memvalidasi setiap unit dari kode perangkat lunak agar dapat berjalan s
 2. Komponen Testing merupakan pengujian perangkat lunak dimana pengujian dilakukan pada setiap komponen terpisah tanpa mengintegrasikan dengan komponen lain. Salah satu black box testing yang dilakukan QA.
 3. Integration Testing adalah pengujian dari hasil penggabungan unit unit yang ada di dalam software. Integration testing sebaaiknya dilakukan bertahap jika terdapat error.
 4. UI Test (End To End)
+ 
+ Link Tugas : https://docs.google.com/document/d/1X_-Ehb_fTed0FiRdfqDAtiyDfNpaR1Iy3wmErQscAyk/edit?usp=sharing
+ 
