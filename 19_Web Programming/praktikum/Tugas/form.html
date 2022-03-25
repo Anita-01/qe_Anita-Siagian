@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Form Sign Up</title>
+<link rel="stylesheet" href="css/css.css">
+
+</head>
+<body>
+    <div class="title">
+        <h1>Buat Account Baru!</h1>
+            <h2>Sign Up Form</h2>
+    </div>
+        <form class="form">
+            <div class="content">
+                <label="firstname">First name:</label><br>
+                <input type="text" name="firstname"> <br>
+    
+                <label id="lastname">Last name:</label><br>
+                <input type="lastname" name="lastname">
+            </div>
+            <div class="content">
+            <label>Gender: </label><br>
+            <input type="radio" id = "male">
+            <label>Male</label> <br>
+            <input type="radio" id = "female">
+            <label>Female</label> <br>
+            <input type="radio" id = "other">
+            <label>Others</label> <br>
+            </div>
+                
+            <div class="content">
+                <label>Nasionality</label>
+                <select name="nationality" id="nationality">
+                    <option value="indo">Indonesian</option>
+                    <option value="english">Inggris</option>
+                    <option value="jerman">Jerman</option>
+                    <option value="korea">Korea</option>
+                    <option value="jepang">Jepang</option>
+                </select>
+    
+            </div>
+            <div class="content">
+                <p>Languange Spoken : </p>
+                <input type="checkbox" id="indo">
+                <label>Bahasa Indonesia</label> <br>
+                <input type="checkbox" id="English"> 
+                <label>English</label><br>
+                <input type="checkbox" id="other">
+                <label>Other</label>
+            </div>
+    
+            <div class="content">
+                <p>Bio : </p>
+                <textarea id="area"></textarea> <br>
+                <button class="button" type="submit"><a href="welcome.html">Sign Up</a></button>
+            </div>
+        </form>          
+</body>
+</html>
