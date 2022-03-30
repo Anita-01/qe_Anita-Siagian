@@ -1,10 +1,10 @@
 -------------------------------------------------------------------------------
 Test set: starter.CucumberTestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 1.155 s <<< FAILURE! - in starter.CucumberTestSuite
-User.GET - As admin I have be able to get detail store book  Time elapsed: 0.322 s  <<< ERROR!
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 1.243 s <<< FAILURE! - in starter.CucumberTestSuite
+User.GET - As admin I have be able to get detail store book  Time elapsed: 0.301 s  <<< ERROR!
 io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in starter.stepdefinitions.booksteps.receiveValidHttpResponse() and starter.stepdefinitions.UserSteps.receiveValidHttpResponse()
 
-starter.CucumberTestSuite  Time elapsed: 1.155 s  <<< ERROR!
+starter.CucumberTestSuite  Time elapsed: 1.243 s  <<< ERROR!
 org.junit.runner.notification.StoppedByUserException
 

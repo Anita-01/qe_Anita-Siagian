@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","As a user I have to be able to login in ToolsQa","SUCCESS","2022-03-30T15:40:21.962+07:00[Asia/Bangkok]","0.0","15.7"
+"Login","Failed login with invalid username","SUCCESS","2022-03-30T15:40:38.551+07:00[Asia/Bangkok]","0.0","9.88"
+"Login","Failed login with invalid password","SUCCESS","2022-03-30T15:40:49.089+07:00[Asia/Bangkok]","0.0","11.53"
+"Login","Failed login with invalid username and password","SUCCESS","2022-03-30T15:41:01.223+07:00[Asia/Bangkok]","0.0","13.7"
+"Login","Failed login with empty username and password","SUCCESS","2022-03-30T15:41:15.616+07:00[Asia/Bangkok]","0.0","20.92"
