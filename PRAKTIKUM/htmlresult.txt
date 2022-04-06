@@ -1,0 +1,8 @@
+line 1 column 38 - Warning: meta lacks "content" attribute
+line 1 column 666 - Warning: <link> lacks "type" attribute
+line 1 column 833 - Warning: <script> lacks "type" attribute
+line 1 column 2,378 - Warning: <script> lacks "type" attribute
+line 1 column 2,438 - Warning: <script> lacks "type" attribute
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+5 warnings, no errors were found!
