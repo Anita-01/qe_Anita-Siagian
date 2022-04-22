@@ -1,0 +1,4 @@
+# Created at 2022-04-22T15:59:40.930
+Boot Manifest-JAR contains absolute paths in classpath 'D:\PERKULIAHAN\SEMESTER 6\KAMPUS MERDEKA\New folder\26_Testing in CICD Pipeline\Praktikum\TugasRESTAPI\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
